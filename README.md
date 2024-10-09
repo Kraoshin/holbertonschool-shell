@@ -1,1 +1,2 @@
-aze
+#!/bin/bash
+pwd
