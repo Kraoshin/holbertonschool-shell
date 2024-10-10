@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -p /home/kraoshin/holbertonschool-shell/basics/tmp/my_first_directory
