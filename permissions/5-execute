@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 710 /permission/hello
+chmod 644 hello
