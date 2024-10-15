@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | printf "\n"
+find .  -empty | ls -l | printf "\n"
